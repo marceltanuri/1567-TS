@@ -1,0 +1,1 @@
+criar uma API para cadastro de usuarios em Node usando typescript, essa API deverá ser consumida por uma FE em JS para os alunos aprenderem a usar POO em JS. Crie apenas o BE, e deixe que o FE os alunos irao criar e consumir localmente em suas maquinas. Cuidado com o CORS

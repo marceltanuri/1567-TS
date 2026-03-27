@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",       // O TS vai procurar os arquivos aqui
+    "outDir": "./dist",      // O TS vai salvar os .js aqui
+    "target": "ES6",
+    "module": "CommonJS",
+    "esModuleInterop": true
+  }
+}
