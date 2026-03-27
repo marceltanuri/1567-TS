@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Part 4 - API Client</title>
+  <style>
+    body { font-family: sans-serif; }
+    input { margin-bottom: 10px; }
+    ul { list-style-type: none; padding: 0; }
+    li { border: 1px solid #ccc; padding: 10px; margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <h1>User Management</h1>
+
+  <h2>Add User</h2>
+  <form id="addUserForm">
+    <input type="text" id="name" placeholder="Name" required><br>
+    <input type="email" id="email" placeholder="Email" required><br>
+    <button type="submit">Add User</button>
+  </form>
+
+  <h2>User List</h2>
+  <ul id="userList"></ul>
+
+  <script src="dist/index.js"></script>
+</body>
+</html>
