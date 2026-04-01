@@ -26,8 +26,8 @@ Crie uma classe chamada `CalculadoraBonus` no arquivo `solucao.ts`. O arquivo de
 ---
 
 ### Como rodar?
-1. Abra o arquivo `solucao.ts`.
-2. Implemente a classe no topo do arquivo.
-3. Execute no terminal:
+1. Execute no terminal:
    ```bash
-   npx ts-node solucao.ts
+   npm install
+   npm start
+   ```
